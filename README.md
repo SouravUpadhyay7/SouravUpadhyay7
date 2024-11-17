@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+  <img src="https://github.com/SouravUpadhyay7/SouravUpadhyay7/blob/main/github-header-image.png?raw=true" alt="Banner" width="100%" />
 </h1>
 
 <h1 align="center">👋 Hi, I'm Sourav Upadhyay</h1>
