@@ -34,13 +34,13 @@
   <a href="https://kaggle.com/https://www.kaggle.com/souravbit" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/god_arceus" target="blank">
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/god_arceus" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/god_arceus/" target="blank">
+  <a href="https://www.leetcode.com/https://leetcode.com/u/god_arceus/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/souravbit/" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/souravbit/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
@@ -68,23 +68,10 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" /> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> 
-  </a>
+### 🛠️ Technologies and Tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,numpy,pandas" alt="Languages and Tools" />
 </p>
 
 ---
