@@ -12,6 +12,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SouravUpadhyay7&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravUpadhyay7&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 🥇 LeetCode Badges:
+<p align="left">
+  <img src="Introduction_to_Pandas.gif" alt="Pandas" style="height:100px;"> 
+  <img src="Top_SQL_50 (1).gif" alt="Leetcode SQL 50" style="height:100px;"> 
+  <img src="https://github.com/SouravUpadhyay7/LeetcodeBadges/blob/main/SQL%20Beginner.gif?raw=true" alt="Leetcode SQL Beginner Badge" style="height:100px;"> 
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SouravUpadhyay7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
