@@ -14,11 +14,31 @@
 
 
 ## 🥇 LeetCode Badges:
-<p align="left">
-  <img src="Introduction_to_Pandas.gif" alt="Pandas" style="height:100px;"> 
-  <img src="Top_SQL_50 (1).gif" alt="Leetcode SQL 50" style="height:100px;"> 
-  <img src="https://github.com/SouravUpadhyay7/LeetcodeBadges/blob/main/SQL%20Beginner.gif?raw=true" alt="Leetcode SQL Beginner Badge" style="height:100px;"> 
-</p>
+
+<h4>Study Plan Medals</h4>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="Introduction_to_Pandas.gif" alt="Pandas" style="height:90px;"> 
+  <img src="Top_SQL_50 (1).gif" alt="Leetcode SQL 50" style="height:90px;"> 
+</div>
+
+<hr>
+
+<h4>Daily Medals | 2024 Badges</h4>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="2024_june.gif" alt="2024 june" style="height:90px;"> 
+  <img src="2024_july.gif" alt="2024 july" style="height:90px;"> 
+  <img src="2024_August.gif" alt="2024 august" style="height:90px;"> 
+  <img src="2024_september.gif" alt="2024 september" style="height:90px;"> 
+</div>
+
+<hr>
+
+<h4>Annual Medals</h4>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img src="100_Days.gif" alt="Leetcode 100 days" style="height:90px;"> 
+  <img src="50_Days.gif" alt="Leetcode 50 days" style="height:90px;"> 
+</div>
+
 
 
 ## 🏆 GitHub Trophies
