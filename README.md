@@ -40,6 +40,9 @@
 </div>
 
 
+## 🥇 HackerRank Badges:
+<img src= "hackerrank.png" alt="hackerrank" style="height:170px;"> 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SouravUpadhyay7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
