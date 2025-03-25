@@ -1,3 +1,9 @@
+
+<img src="Gradient Geometric Creative Agency LinkedIn Banner.png" alt="GitHub Repository Banner" style="width:100%; height:auto;">
+
+
+
+
 # 💫 About Me:
 💻 Skills: C++, Python, DSA, Django<br>🤖 Interests: Generative AI, Machine Learning, Data Science, Backend with Django<br>🏆 Achievements: Ranked 7th on GeeksforGeeks within my institute<br>🌱 Currently Learning: AI & ML , Django, DataScience
 
