@@ -1,5 +1,5 @@
 
-<img src="Gradient Geometric Creative Agency LinkedIn Banner.png" alt="GitHub Repository Banner" style="width:100%; height:auto;">
+<img src="https://github.com/SouravUpadhyay7/SouravUpadhyay7/blob/main/NEW%20BANNER.png" alt="GitHub Repository Banner" style="width:100%; height:auto;">
 
 
 
